@@ -1,0 +1,2 @@
+any: yaml
+description: This file is here for test scenarios where we need to load any YAML, regardless its contents.
