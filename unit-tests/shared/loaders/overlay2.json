@@ -1,0 +1,5 @@
+{
+  "overlay": 2,
+  "nested.property": true,
+  "nested.overlay.two": true
+}
