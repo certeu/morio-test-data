@@ -1,0 +1,4 @@
+{
+  "any": "json",
+  "description": "This file is here for test scenarios where we need to load any JSON, regardless its contents."
+}
